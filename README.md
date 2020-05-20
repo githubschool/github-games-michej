@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-Someone can play the game at: https://githubschool.github.io/github-games-michej/
+Timothy can play the game at: https://githubschool.github.io/github-games-michej/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
